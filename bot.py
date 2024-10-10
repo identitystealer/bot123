@@ -56,4 +56,4 @@ async def vouch(ctx, member: discord.Member, *, reason: str = "No reason provide
         await ctx.send("Vouch channel not found. Please create a channel named 'vouches'.")
 
 # Run the bot with your token
-bot.run('MTI5NDAyNDIwMzUwMjIyMzQyMQ.GDCR7O._6f5hBKccA5ySG_sZxz-bESECrsQjJumiSq1j8')
+bot.run(' ')
